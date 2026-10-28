@@ -1,0 +1,9 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+python-multipart>=0.0.9
+reportlab>=4.2
+pillow>=10.0
+opencv-python>=4.9
+# Optional AI dependencies (install separately if desired):
+# ultralytics>=8.2
+# openai-whisper
